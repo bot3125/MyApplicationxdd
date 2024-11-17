@@ -1,0 +1,16 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Tema principal de la aplicación -->
+    <style name="Theme.MyApplicationxd" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Color principal de la barra de acción y otros componentes -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <!-- Color de fondo de la barra de estado -->
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <!-- Color de énfasis (botones, elementos activos) -->
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Personalizaciones adicionales del tema -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+</resources>

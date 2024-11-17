@@ -1,0 +1,9 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="fetching_exchange_rate">Obteniendo tipo de cambio...</string>
+    <string name="exchange_rate_error">Error al obtener el tipo de cambio</string>
+    <string name="exchange_rate_text">Tipo de cambio: %1$.2f</string>
+    <string name="error_fetching_rate">Error al obtener el tipo de cambio</string>
+
+</resources>
